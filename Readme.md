@@ -24,7 +24,6 @@ Welcome to the Blockchain Crowdfunding Website project! This platform enables us
 - Metamask Wallet Integration
 - HTML, CSS, JavaScript (for frontend)
 
-- ![image](https://github.com/Shounak2003/blockchain-crowd-funding/assets/93007487/243fab1e-f32e-46f1-8f72-3630e0284070)
 
 
 ## Getting Started
